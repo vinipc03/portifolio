@@ -1,0 +1,5 @@
+atualizando arquivos no github
+git add .
+git status
+git commit -m "comentário"
+git push
